@@ -29,7 +29,7 @@ Each topic includes **beginner → advanced** steps, curated resources, essentia
 
 Foundational and advanced guides for developers learning languages, algorithms, and core CS concepts.
 
-- **Learn Python** – A beginner-friendly and highly versatile language.  
+- **[Learn Python](https://github.com/brandonhimpfen/awesome-learn-python)** – A beginner-friendly and highly versatile language.  
 - **Learn Go** – A modern, efficient language for cloud and systems development.  
 - **Learn Rust** – Safe, fast, and ideal for systems programming.  
 - **Learn JavaScript** – The language of the web.  
