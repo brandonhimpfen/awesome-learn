@@ -63,7 +63,8 @@ Guides to modern AI, machine learning, LLMs, and practical data analysis.
 - **Learn Machine Learning** – Core ML concepts and model building.  
 - **Learn Deep Learning** – Neural networks, vision models, transformers.  
 - **Learn Large Language Models** – LLM fundamentals and applied use-cases.  
-- **Learn Prompt Engineering** – Writing effective prompts for AI systems.  
+- **[Learn Prompt Engineering](https://github.com/brandonhimpfen/awesome-learn-prompt-engineering)** – Writing effective prompts for AI systems.
+- **[Learn AI Workflows](https://github.com/brandonhimpfen/awesome-learn-ai-workflows)** – Understanding, designing, and improving AI-assisted workflows.
 - **Learn MLOps** – Deploying, monitoring, and managing ML systems.  
 - **Learn Data Analysis** – Extract insights from structured and unstructured data.  
 
