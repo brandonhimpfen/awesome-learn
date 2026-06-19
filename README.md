@@ -42,7 +42,7 @@ Foundational and advanced guides for developers learning languages, algorithms, 
 - **[Learn Go](https://github.com/brandonhimpfen/awesome-learn-go)** – A modern, efficient language for cloud and systems development.  
 - **Learn Rust** – Safe, fast, and ideal for systems programming.  
 - **Learn JavaScript** – The language of the web.  
-- **Learn Databases** – Foundations of storing and querying data.  
+- **[Learn Databases](https://github.com/brandonhimpfen/awesome-learn-databases)** – Foundations of storing and querying data.  
 - **Learn Algorithms & Data Structures** – CS fundamentals for interviews and real-world problem solving.  
 - **Learn Computer Science Foundations** – Core CS concepts for all developers.  
 
