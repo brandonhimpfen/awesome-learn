@@ -1,9 +1,6 @@
 # Awesome Learn [![Awesome Learn](https://srv-cdn.himpfen.io/badges/awesome-learn/awesomelearn-flat.svg)](https://github.com/brandonhimpfen/awesome-learn)
 
-[![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
-[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) &nbsp; 
-[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; 
-[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen)
+[![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
 
 Awesome Learn is an open-source project that provides structured, curated learning paths across technology, digital skills, science, professional development, and more.
 
